@@ -21,4 +21,4 @@ the floor and the direction of reading.
 In addition a function was built that would calculate which elevator would do the reading in the best time,
 by calculating the arrival time of each elevator for each reading.
 
-![image](https://user-images.githubusercontent.com/93525881/142434600-1b0d1e66-0074-48d8-b0f1-786c312f80c8.png)
+![image](https://user-images.githubusercontent.com/93525881/142435745-db1152d0-9804-4274-8f06-980f9e465b53.png)
